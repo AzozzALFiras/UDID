@@ -24,7 +24,7 @@
         <key>PayloadIdentifier</key>
         <string>me.a1iraqi.udid</string>
         <key>PayloadDescription</key>
-        <string>By installing this profile, your UDID will be sent to Store for registration.</string>
+        <string>حمل البروفايل ليتم ارسال طلب اشتراك للجهاز الخاص بك</string>
         <key>PayloadType</key>
         <string>Profile Service</string>
     </dict>
