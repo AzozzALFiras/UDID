@@ -1,32 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-<key>PayloadContent</key>
-<dict>
-<key>URL</key>
-  <string>http://a1iraqi.me/udid/done.php</string>
-<key>DeviceAttributes</key>
-<array>
-<string>UDID</string>
-<string>IMEI</string>
-<string>ICCID</string>
-<string>VERSION</string>
-<string>PRODUCT</string>
-</array>
-</dict>
-<key>PayloadOrganization</key>
-<string>by @AzozzALFiras</string>
-<key>PayloadDisplayName</key>
-<string>iStore متجر</string>
-<key>PayloadVersion</key>
-<integer>1</integer>
-<key>PayloadUUID</key>
-<string>74xx5abc-99x9-4x3z-cvfa-999xxxx1d44c8</string>
-<key>PayloadIdentifier</key>
-<string>me.a1iraqi.udid</string>
-<key>PayloadDescription</key>
-<string> قم في تثبيت هذا البروفايل لكي يتم نقلك لصفحة الطلب وتقول في ارسال معلوماتك لكي يتم تفعيل الاشتراك لجهازك</string>
-<key>PayloadType</key>
-<string>Profile Service</string>
-</dict>
+    <dict>
+        <key>PayloadContent</key>
+        <dict>
+            <key>URL</key>
+            <string>https://www.udid.co/enroll/receive-udid.php</string>
+            <key>DeviceAttributes</key>
+            <array>
+            <string>UDID</string>
+            <string>PRODUCT</string>
+            <string>VERSION</string>
+            </array>
+        </dict>
+        <key>PayloadOrganization</key>
+        <string>iStore</string>
+        <key>PayloadDisplayName</key>
+        <string>UDID Registration</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadUUID</key>
+        <string>A77AABE9-67D5-4B9C-8011-2F3297A4865E</string>
+        <key>PayloadIdentifier</key>
+        <string>me.a1iraqi.udid</string>
+        <key>PayloadDescription</key>
+        <string>By installing this profile, your UDID will be sent to Store for registration.</string>
+        <key>PayloadType</key>
+        <string>Profile Service</string>
+    </dict>
 </plist>
