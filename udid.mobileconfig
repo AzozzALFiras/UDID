@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>https://www.udid.co/enroll/receive-udid.php</string>
+            <string>https://a1iraq.me/sendnew,php</string>
             <key>DeviceAttributes</key>
             <array>
             <string>UDID</string>
