@@ -1,18 +1,6 @@
 # UDID
-
-سكربت استخراج ال udid واضافته تلقائي في نوذج ارسال طلب اشتراك ويصل عبر البريد  الالكتروني على صاحب المتجر
-
-
-سكربت استخراج ال udid مصدره الاساسي
+Get udid from web 
 https://github.com/hunk/get-UDID
 
-سكربت ارسال الطلب من برمجتي
+and edit by me for sent udid to email or whatsapp 
 
-
-حسابي على التويتر
-https://twitter.com/AzozzALFiras
-
-
-دعمنا عبر البايبال
-
-https://paypal.me/Azozz
